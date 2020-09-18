@@ -6,4 +6,4 @@
 
 | pt | en |
 | --- | --- |
-| Ei, tá vendo isso aqui? Quer colocar algo no seu perfil do github também? Cria um repositório com o mesmo nome que seu nome de usuário, coloca dentro dele um README.md e o conteúdo vai aparecer no seu perfil! | Hey, are you seeing this? Do you want to put something at your github profile too? Create a repository with same name as your username, put a README.md inside of it and the content will show up at your profile! |
+| Crie um repositório com o mesmo nome que seu nome de usuário, coloque dentro dele um README.md e o conteúdo vai aparecer no seu perfil! | Create a repository with same name as your username, put a README.md inside of it and the content will show up at your profile! |
