@@ -25,3 +25,14 @@
 | pt | en |
 | --- | --- |
 | Crie um repositório com o mesmo nome que seu nome de usuário, coloque dentro dele um README.md e o conteúdo vai aparecer no seu perfil! | Create a repository with same name as your username, put a README.md inside of it and the content will show up at your profile! |
+
+-------
+
+|       | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|-------|---|---|---|---|---|---|---|
+| **1** | A | N | S | W | E | R |   |
+| **2** | T | O |   | L | I | F | E |
+| **3** |   | T | H | E |   | U | N |
+| **4** | I | V | E | R | S | E |   |
+| **5** | A | N | D |   | E | V | E |
+| **6** | R | Y | T | H | I | N | G |
