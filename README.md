@@ -8,7 +8,7 @@
 
 ## Projetos / Projects
 
-### <img src="https://raw.githubusercontent.com/darakeon/dfm/main/site/MVC/Assets/images/pig.svg" alt="Don't fly Money" title="Don't fly Money" width="20px" /> [Don't fly Money](https://dontflymoney.com)
+### <img src="https://raw.githubusercontent.com/darakeon/dfm/main/site/MVC/Assets/images/pig-on.svg" alt="Don't fly Money" title="Don't fly Money" width="20px" /> [Don't fly Money](https://dontflymoney.com)
 
 - pt: sistema de gerenciamento financeiro pessoal
 - en: personal money management system
