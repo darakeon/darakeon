@@ -13,7 +13,7 @@
 - pt: sistema de gerenciamento financeiro pessoal
 - en: personal money management system
 
-### <img src="https://raw.githubusercontent.com/darakeon/meak/main/site/Presentation/Assets/images/facebook.png" alt="MEAK" title="MEAK" width="20px" /> [MEAK](https://meak-stories.com)
+### <img src="https://raw.githubusercontent.com/darakeon/meak/main/site/Presentation/Assets/images/facebook.png" alt="MEAK" title="MEAK" width="20px" /> [MEAK](https://meak.com.br)
 
 - pt: seriado escrito de ficção / fantasia
 - en: fiction / fantasy written series (only portuguese for now)
